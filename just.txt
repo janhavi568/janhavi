@@ -1,2 +1,4 @@
 my self: Janhavi Murtadak
+linux is free open-source operating system widely used in server,cloud computing and software development.
+it provides a secure,stable and flexible environment for managing files, running applications and controlling system resources
  
